@@ -1,0 +1,18 @@
+Objective: This program will allow the user to convert units.
+
+Algorithm
+-create a code that converts numbers into other numbers
+-create code that takes the input from the user
+-check if the user wants to quit or 
+-loop each round of the game
+-add statements at the beginning that welcomes the user for playing.
+-loop the program so the user can continue to play until they decide to quit.
+
+Pseudocode:
+make variable for loop
+make while loop
+    print welcome
+    make kilometers a variable with an input
+    check if its a number or string 
+        if input is a number convert it
+        if input is string then stop the program if it is "yeet"
